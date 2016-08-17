@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AYPageControl (0.0.2)
+  - BeeCloud/Alipay (3.5.0):
+    - BeeCloud/Core
+  - BeeCloud/Core (3.5.0)
+  - FDFullscreenPopGesture (1.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - IQKeyboardManager (3.3.7)
+  - MJExtension (3.0.11)
+  - SDAutoLayout (2.0.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - XHLaunchAd (1.1.4)
+  - XHToast (1.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AYPageControl (~> 0.0.2)
+  - BeeCloud/Alipay
+  - FDFullscreenPopGesture
+  - FMDB
+  - IQKeyboardManager
+  - MJExtension (~> 3.0.10)
+  - SDAutoLayout (~> 2.0.0)
+  - SDWebImage (~> 3.7.5)
+  - XHLaunchAd
+  - XHToast
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AYPageControl: 939462580727192043724c359b34dce2fd89029f
+  BeeCloud: 1c8436e6cb10a6eabaaabc69e22bec3cebfeb187
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  MJExtension: f9ae6ddc0f1c482c3c9af750280ccebd14381958
+  SDAutoLayout: ae98d238e4721c1566abec57bcb2fa1fbe62a0df
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  XHLaunchAd: f93019b6b9dd55541313f62f221fa8144e53aa23
+  XHToast: e114e0eb86326d45c823bf05cc9f65adbeec528b
+
+COCOAPODS: 0.39.0
