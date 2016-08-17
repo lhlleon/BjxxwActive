@@ -3,7 +3,7 @@
   <img src="https://github.com/lhlleon/BjxxwActive/blob/master/NewBjxxwApp/Assets.xcassets/AppIcon.appiconset/120%403x.png" alt="北京信息网·活动" title="北京信息网·活动">(www.bjxxw.com)
 </p>
 
-[![weibo-logo]](http://weibo.com/linpiaochen)
+[![bjxxw-icon](https://github.com/lhlleon/BjxxwActive/blob/master/NewBjxxwApp/Assets.xcassets/AppIcon.appiconset/120%403x.png)](http://www.bjxxw.com)
 
 北京信息网·活动 
 
